@@ -12,7 +12,7 @@ class Brf < Formula
     end
   
     test do
-      system "#{bin}/bsf", "--version"
+      system "#{bin}/brf", "--version"
     end
   end
 
