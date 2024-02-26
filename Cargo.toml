@@ -2,6 +2,13 @@
 name = "brf"
 version = "0.1.0"
 edition = "2021"
+authors = ["Balachandran mailme.balachandran@gmail.com"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/mailmebalachandran/homebrew-brf"
+keywords = ["path", "pattern", "search-file"]
+categories = ["command-line-utilities"]
+description = "entry code for search the file based on regex pattern"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
